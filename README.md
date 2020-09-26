@@ -27,6 +27,7 @@ Merci, et à bientôt surement!
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/726px-Javascript-shield.svg.png"/>
 
 
+---
 
 
 #### Outils
