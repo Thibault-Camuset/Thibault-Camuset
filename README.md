@@ -22,4 +22,4 @@ Merci, et à bientôt surement!
 
 <img align="left" width="26px" src="https://lh3.googleusercontent.com/proxy/_GdJvDfbHYj9meYJgXVwXcfnM-w9KYPFGsoGmO6R3y2yEJemhHC4gXVMix8c3PK00X2GrUsEKe6G"/>
 <img align="left" width="26px" src="https://img1.freepng.fr/20180503/dsq/kisspng-cascading-style-sheets-css3-bootstrap-valid-5aeaf82a9e2723.1207600815253483946478.jpg"/>
-<img align="left" width="26px" src="https://harrisson.fr/wp-content/uploads/2019/11/kisspng-javascript-angularjs-node-js-computer-icons-clip-a-clipart-js-5c0d82819a4963.228658921544389249632.jpg"/>
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/726px-Javascript-shield.svg.png"/>
