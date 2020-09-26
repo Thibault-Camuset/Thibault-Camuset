@@ -17,9 +17,6 @@
 💬 N'hésitez pas à me contacter pour des conseils, recommandations, des avis, ou bien sûr, des propositions!
 
 
-
-Merci, et à bientôt surement!
-
 #### Langages
 
 <img align="left" width="26px" src="https://lh3.googleusercontent.com/proxy/_GdJvDfbHYj9meYJgXVwXcfnM-w9KYPFGsoGmO6R3y2yEJemhHC4gXVMix8c3PK00X2GrUsEKe6G"/>
@@ -31,3 +28,7 @@ Merci, et à bientôt surement!
 
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>
+</br>
+
+
+Merci, et à bientôt surement!
