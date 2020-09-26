@@ -20,4 +20,4 @@
 
 Merci, et à bientôt surement!
 
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/html.png">/]
+<img align="left" width="26px" src="https://kbtrainings.com/wp-content/uploads/2019/11/html.png"/>
