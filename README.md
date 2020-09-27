@@ -2,7 +2,7 @@
 
 ---
 
-N'hésitez pas à visiter mon <a href="http://www.developer-road.com/index.html">portfolio</a> pour y trouver une version en ligne de la plupart de mes projets, et de plus amples informations à mon sujet!
+N'hésitez pas à visiter mon <a href="http://www.developer-road.com">portfolio</a> pour y trouver une version en ligne de la plupart de mes projets, et de plus amples informations à mon sujet!
 
 ---
 
