@@ -1,6 +1,8 @@
 ### Salutations! 👋
 
 
+N'hésitez pas à visiter mon <a href="http://www.developer-road.com/index.html">portfolio</a> pour y trouver une version en ligne de la plupart de mes projets, et de plus amples informations à mon sujet!
+
 
 🌱 Je suis actuellement en train de suivre une Formation de Développeur Web et Web Mobile de 7 mois, dont un stage de deux mois en entreprise, avec Simplon.co, qui me permettra d'aboutir sur une certification de niveau 5 (BAC +2).
 
