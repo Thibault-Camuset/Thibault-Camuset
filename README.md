@@ -19,7 +19,7 @@
 
 #### Langages
 
-<img align="left" width="26px" src="https://lh3.googleusercontent.com/proxy/_GdJvDfbHYj9meYJgXVwXcfnM-w9KYPFGsoGmO6R3y2yEJemhHC4gXVMix8c3PK00X2GrUsEKe6G"/>
+<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png"/>
 <img align="left" width="26px" src="https://img1.freepng.fr/20180503/dsq/kisspng-cascading-style-sheets-css3-bootstrap-valid-5aeaf82a9e2723.1207600815253483946478.jpg"/>
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/726px-Javascript-shield.svg.png"/>
 </br>
