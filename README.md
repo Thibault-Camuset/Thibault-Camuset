@@ -20,6 +20,7 @@ N'hésitez pas à visiter mon <a href="http://www.developer-road.com/index.html"
 
 💬 N'hésitez pas à me contacter pour des conseils, recommandations, des avis, ou bien sûr, des propositions!
 
+---
 
 #### Langages
 
