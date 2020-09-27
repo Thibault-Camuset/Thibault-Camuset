@@ -14,7 +14,7 @@ N'hésitez pas à visiter mon <a href="http://www.developer-road.com/index.html"
 
 
 
-📫 Je suis à la recherche d'un stage sur Clermont-Ferrand, du 15 Février 2021 au 8 Avril 2021 qui me permettre d'aquérir de l'expérience, poursuivre et enfin, valider ma formation et la certification!
+📫 Je suis à la recherche d'un stage sur Clermont-Ferrand, <style color:red font-weight:bold>du 15 Février 2021 au 8 Avril 2021</style> qui me permettre d'aquérir de l'expérience, poursuivre et enfin, valider ma formation et la certification!
 
 
 
