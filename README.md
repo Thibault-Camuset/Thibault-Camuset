@@ -27,7 +27,7 @@ N'hésitez pas à visiter mon <a href="http://www.developer-road.com">portfolio<
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/725px-HTML5_logo_resized.svg.png"/>
 <img align="left" width="26px" src="https://img1.freepng.fr/20180503/dsq/kisspng-cascading-style-sheets-css3-bootstrap-valid-5aeaf82a9e2723.1207600815253483946478.jpg"/>
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/726px-Javascript-shield.svg.png"/>
-<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2000px-Webysther_20160423_-_Elephpant.svg.png"/>
+<img align="left" width="26px" src="https://www.combell.com/nl/blog/files/2017/12/PHP7.png"/>
 </br>
 </br>
 
