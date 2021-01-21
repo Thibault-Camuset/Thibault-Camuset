@@ -14,7 +14,7 @@ N'hésitez pas à visiter mon <a href="http://www.developer-road.com">portfolio<
 
 
 
-📫 Je suis à la recherche d'un stage sur Clermont-Ferrand, du 15 Février 2021 au 8 Avril 2021 qui me permettre d'aquérir de l'expérience, poursuivre et enfin, valider ma formation et la certification!
+📫 J'effectuerais mon stage de fin de formation au sein de Kyū Solution. J'envisage de continiuer sur une seconde formation en Conception et Développement d'Applications en alternance pendant un an. Je serais donc à la recherche d'une entreprise pour la dite alternance qui débutera probablement aux alentours de mai/juin 2021!
 
 
 
