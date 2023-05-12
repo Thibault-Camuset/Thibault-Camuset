@@ -6,19 +6,16 @@ N'hésitez pas à visiter mon <a href="http://www.developer-road.com">portfolio<
 
 ---
 
-🌱 Je suis actuellement en train de suivre une Formation de Développeur Web et Web Mobile de 7 mois, dont un stage de deux mois en entreprise, avec Simplon.co, qui me permettra d'aboutir sur une certification de niveau 5 (BAC +2).
+🌱 Développeur Back-End / Full-Stack Junior, venant de terminer une reconversion grâce à deux formations, de développeur web et web mobile, et de concepteur développeur d'applications (RNCP Niveau 6 - Bac +3/4).
 
 
 
-🔭 Vous trouverez sur ce GitHub mes différents projets effectué durant ma formation, mais aussi ceux plus personnels, n'hésitez pas à les regarder, me faire part de recommandations ou de vos avis.
+🔭 Vous trouverez sur ce GitHub mes différents projets effectué durant les formation, mais aussi ceux plus personnels.
 
 
 
-📫 J'effectuerais mon stage de fin de formation au sein de Kyū Solution. J'envisage de continiuer sur une seconde formation en Conception et Développement d'Applications en alternance pendant un an. Je serais donc à la recherche d'une entreprise pour la dite alternance qui débutera probablement aux alentours de mai/juin 2021!
+📫 Je recherche actuellement un poste de développeur, sur Clermont-Ferrand ou ailleurs.
 
-
-
-💬 N'hésitez pas à me contacter pour des conseils, recommandations, des avis, ou bien sûr, des propositions!
 
 ---
 
